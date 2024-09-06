@@ -1,4 +1,4 @@
-## **Busca Rápida e Fácil de Atletas Brasileiros! - Imersão DEV com Google Gemini ** 
+## Busca Rápida e Fácil de Atletas Brasileiros! - Imersão DEV com Google Gemini
 
 **O que faz essa aplicação?**
 
